@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hey It's @BunimeBuilds
+# 🏗️ Building Secure Web3 Infrastructure
 
-<!--
-**BunimeBuilds/BunimeBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
 
-Here are some ideas to get you started:
+contract BunimeBuilds {
+    string public constant FOCUS = "Security-First Smart Contract Development";
+    string public constant MISSION = "Building resilient protocols, one audit at a time";
+    
+    mapping(string => bool) public skills;
+    
+    constructor() {
+        skills["Solidity"] = true;
+        skills["Foundry"] = true;
+        skills["Security Auditing"] = true;
+        skills["Full-Stack Web3"] = true;
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 What I Build
+
+I'm a blockchain developer specializing in **smart contract security** and **full-stack Web3 applications**. My work focuses on understanding vulnerabilities to build more secure protocols.
+
+### Current Focus Areas
+
+- **Security Research**: Studying smart contract exploits and attack vectors
+- **Protocol Development**: Building secure DeFi primitives and NFT systems
+- **Audit Tooling**: Creating frameworks for safer development workflows
+- **Web3 Integration**: Connecting secure contracts with intuitive frontends
+
+## 🛠️ Tech Stack
+
+**Smart Contracts & Security**
+- Solidity with Foundry framework
+- Security analysis and exploit research
+- Custom development environments for safe testing
+
+**Full-Stack Web3**
+- Next.js for decentralized applications
+- Wagmi for Ethereum interactions
+- Node.js backend services
+- JavaScript/TypeScript across the stack
+
+## 📦 Featured Work
+
+### 🔴 [sc-exploits-minimized](https://github.com/BunimeBuilds/sc-exploits-minimized)
+Minimized versions of real-world Web3 exploits for learning and testing. Understanding vulnerabilities is the first step to preventing them.
+
+### 🐳 [web3-dev-containers](https://github.com/BunimeBuilds/web3-dev-containers)
+Isolated development environments for running untrusted code safely. Security starts with the development workflow.
+
+### 🎨 [CustomNFTs](https://github.com/BunimeBuilds/CustomNFTs) & [LegitimateRep](https://github.com/BunimeBuilds/LegitimateRep)
+Exploring NFT standards and on-chain reputation systems with security-first design principles.
+
+## 🎯 Philosophy
+
+```
+Security is not a feature—it's the foundation.
+```
+
+Every line of code is a potential attack vector. My approach combines:
+- Deep understanding of common vulnerabilities (reentrancy, access control, oracle manipulation)
+- Rigorous testing with Foundry's fuzzing and invariant testing
+- Clean, auditable code that prioritizes safety over cleverness
+- Continuous learning from past exploits and emerging attack patterns
+
+## 🤝 Let's Connect
+
+Building in Web3? Interested in security research? Let's collaborate on making the ecosystem safer.
+
+---
+
+<div align="center">
+
+**"In cryptography we trust. In smart contracts, we verify."**
+
+</div>
