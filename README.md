@@ -1,11 +1,11 @@
-# Hey It's @BunimeBuilds
+# G1R likes to build cool stuff in Web3
 # 🏗️ Building Secure Web3 Infrastructure
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract BunimeBuilds {
+contract G1Rmister {
     string public constant FOCUS = "Security-First Smart Contract Development";
     string public constant MISSION = "Building resilient protocols, one audit at a time";
     
@@ -43,17 +43,6 @@ I'm a blockchain developer specializing in **smart contract security** and **ful
 - Wagmi for Ethereum interactions
 - Node.js backend services
 - JavaScript/TypeScript across the stack
-
-## 📦 Featured Work
-
-### 🔴 [sc-exploits-minimized](https://github.com/BunimeBuilds/sc-exploits-minimized)
-Minimized versions of real-world Web3 exploits for learning and testing. Understanding vulnerabilities is the first step to preventing them.
-
-### 🐳 [web3-dev-containers](https://github.com/BunimeBuilds/web3-dev-containers)
-Isolated development environments for running untrusted code safely. Security starts with the development workflow.
-
-### 🎨 [CustomNFTs](https://github.com/BunimeBuilds/CustomNFTs) & [LegitimateRep](https://github.com/BunimeBuilds/LegitimateRep)
-Exploring NFT standards and on-chain reputation systems with security-first design principles.
 
 ## 🎯 Philosophy
 
